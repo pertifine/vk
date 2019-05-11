@@ -6,7 +6,7 @@ from pathlib import Path
 home = str(Path.home())
 
 sys.path.append(os.path.abspath(home + '/scripts/DATA/'))
-from vk_universal import token, id, path_photo_liker 
+from vk_universal import token, id 
 
 APIVersion = 5.73
 
