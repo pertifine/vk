@@ -1,6 +1,6 @@
 # vk
 
-main dependencies 
+main dependencies: 
 vk time 
 
 secondary dependencies without editing code
